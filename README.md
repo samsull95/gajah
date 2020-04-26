@@ -1,0 +1,2 @@
+# gajah
+Gajah otak kecil
